@@ -1,2 +1,4 @@
-# Introducci-n-GIT
+# Introduccion-GIT
 Repositorio  de la introduccion a GIT
+
+Te amo Acopa
